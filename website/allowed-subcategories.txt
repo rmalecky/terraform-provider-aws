@@ -36,6 +36,7 @@ Chime
 Chime SDK Identity
 Chime SDK Meetings
 Chime SDK Messaging
+Clean Rooms
 Cloud Control API
 Cloud Directory
 Cloud Map

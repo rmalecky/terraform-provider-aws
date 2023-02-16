@@ -41,6 +41,7 @@ const (
 	ChimeSDKIdentity             = "chimesdkidentity"
 	ChimeSDKMeetings             = "chimesdkmeetings"
 	ChimeSDKMessaging            = "chimesdkmessaging"
+	CleanRooms                   = "cleanrooms"
 	Cloud9                       = "cloud9"
 	CloudControl                 = "cloudcontrol"
 	CloudDirectory               = "clouddirectory"

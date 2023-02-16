@@ -48,6 +48,7 @@ s3,s3,,,,,,,,,,,,,,,,CLI High-level S3 commands,AWS,x,,,,CLI only
 history,history,,,,,,,,,,,,,,,,CLI History of commands,AWS,x,,,,CLI only
 importexport,importexport,,,,,,,,,,,,,,,,CLI Import/Export,AWS,x,,,,CLI only
 cli-dev,clidev,,,,,,,,,,,,,,,,CLI Internal commands for development,AWS,x,,,,CLI only
+cleanrooms,cleanrooms,cleanrooms,cleanrooms,,cleanrooms,,,CleanRooms,CleanRooms,,,2,,aws_cleanrooms_,,cleanrooms_,Clean Rooms,AWS,,,,,
 cloudcontrol,cloudcontrol,cloudcontrolapi,cloudcontrol,,cloudcontrol,,cloudcontrolapi,CloudControl,CloudControlApi,,,2,aws_cloudcontrolapi_,aws_cloudcontrol_,,cloudcontrolapi_,Cloud Control API,AWS,,,,,
 ,,,,,,,,,,,,,,,,,Cloud Digital Interface SDK,AWS,x,,,,No SDK support
 clouddirectory,clouddirectory,clouddirectory,clouddirectory,,clouddirectory,,,CloudDirectory,CloudDirectory,,1,,,aws_clouddirectory_,,clouddirectory_,Cloud Directory,Amazon,,,,,

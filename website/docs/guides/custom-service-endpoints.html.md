@@ -108,6 +108,7 @@ provider "aws" {
   <li><code>chimesdkidentity</code></li>
   <li><code>chimesdkmeetings</code></li>
   <li><code>chimesdkmessaging</code></li>
+  <li><code>cleanrooms</code></li>
   <li><code>cloud9</code></li>
   <li><code>cloudcontrol</code> (or <code>cloudcontrolapi</code>)</li>
   <li><code>clouddirectory</code></li>
